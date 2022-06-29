@@ -1,8 +1,8 @@
-Web-scraping GitHub repositories
+## Web-scraping GitHub repositories
 
 In this project we have scraped information from the github topics page.
 
-We have used libraries
+#### We have used libraries
   - requests
   - Beautiful Soup
  
